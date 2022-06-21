@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Weather Watch
+
+- [About](#about)
+- [Getting Started with the App](#getting-started-with-the-app)
+
+## About
+
+**Weather Watch** is an app that helps you get information about current weather in different places around the world. The app is using **OpenWeather API** to get all the information that is displayed when your city or state is searched.When the city or the state you are looking for is not found app will tell you that you need to enter the city or the state that exists.
+**Technologies** that are used for this project :
+
+- `HTML`
+- `CSS`
+- `Javascript`
+- `React.js`
+
+I used these technologies because of the simplicity of the app and also because the advantages of React Hooks made the process of state management so much easier.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
