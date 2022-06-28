@@ -15,6 +15,8 @@
 
 I used these technologies because of the simplicity of the app and also because the advantages of React Hooks made the process of state management so much easier.
 
+Website is also avaliable on GitHub Pages on this link : https://ismar1997.github.io/weather-watch/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
