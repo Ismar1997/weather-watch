@@ -25,7 +25,6 @@ jobs:
           path: ./build
   deploy:
   name: Deploy
-    runs-on: windows-latest
     needs: build
     steps: 
       - name : Download atifact
