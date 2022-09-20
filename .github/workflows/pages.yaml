@@ -6,19 +6,15 @@ on:
 jobs:
   build:
     name: Build
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
-      - name : Checkout Code
-        uses: actions/checkout@v1
-      - name : Install node 
-        uses: actions/setup-node
+      - uses: actions/checkout@v1 
+      - uses: actions/setup-node@v1
         with: 
           node-version: 16.x
-      - name : Install NPM Dependencies
-        run: npm i
-      - name : Build project
-        run : npm run build
-      - name: Upload artifact in order to deploy
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
         uses: actions/upload-artifact@v2
         with :
           name: production-files
