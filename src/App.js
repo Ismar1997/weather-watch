@@ -111,7 +111,8 @@ function App() {
         ) : (
           <div className="landing-page">
             <h1>
-              Enter the city or country you wish to see what weather is there.
+              Welcome to Weather Watch ! Enter the city or country you wish to
+              see what weather is there.
             </h1>
           </div>
         )}
