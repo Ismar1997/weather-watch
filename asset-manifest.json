@@ -1,20 +1,32 @@
 {
   "files": {
-    "main.css": "/weather-watch/static/css/main.48f161de.css",
-    "main.js": "/weather-watch/static/js/main.63fb9193.js",
-    "static/media/drizzle.jpg": "/weather-watch/static/media/drizzle.d8ccf77d23b8c389ab01.jpg",
-    "static/media/snowing.jpg": "/weather-watch/static/media/snowing.8e32c0a5595d523a9994.jpg",
-    "static/media/thunderstorm.jpg": "/weather-watch/static/media/thunderstorm.e1d8ad9a31cb01a9e604.jpg",
-    "static/media/rain.jpg": "/weather-watch/static/media/rain.d86e399ed8d996c1de0c.jpg",
-    "static/media/cloudy.jpg": "/weather-watch/static/media/cloudy.b5b2890214cfbc448e9c.jpg",
+    "main.css": "/weather-watch/static/css/main.5911a8ae.css",
+    "main.js": "/weather-watch/static/js/main.17c6138b.js",
+    "static/media/rain.png": "/weather-watch/static/media/rain.95dbad4e7d8afea2751d.png",
+    "static/media/fog.png": "/weather-watch/static/media/fog.7483085dcd1b9e56c542.png",
+    "static/media/drizzle.png": "/weather-watch/static/media/drizzle.1dba476c18024a1773cd.png",
+    "static/media/thunderstorm.png": "/weather-watch/static/media/thunderstorm.a366977d7db5e9b8dba8.png",
+    "static/media/snowing.png": "/weather-watch/static/media/snowing.9183a0c4542f2b943cb4.png",
+    "static/media/mist.png": "/weather-watch/static/media/mist.e312f0e51bb0e7ed6e12.png",
+    "static/media/clouds.png": "/weather-watch/static/media/clouds.1c4c075f981822bd3e4e.png",
+    "static/media/clear.png": "/weather-watch/static/media/clear.9668469af8b7c947556e.png",
     "static/media/landing.jpg": "/weather-watch/static/media/landing.ca84ab888073c618362c.jpg",
-    "static/media/clear.jpg": "/weather-watch/static/media/clear.523f706033d755de06ed.jpg",
+    "static/media/pinkclouds.svg": "/weather-watch/static/media/pinkclouds.77071746d68d814e8dce5145efca193e.svg",
+    "static/media/24hours.png": "/weather-watch/static/media/24hours.90f0cd70fcc93b05e18a.png",
+    "static/media/24-hours.png": "/weather-watch/static/media/24-hours.d44960ca1c818209aa04.png",
+    "static/media/humidity.png": "/weather-watch/static/media/humidity.f6c04a9e91cb889a0566.png",
+    "static/media/vision.png": "/weather-watch/static/media/vision.a7d89deac775bf6fee82.png",
+    "static/media/air.png": "/weather-watch/static/media/air.f2d56baec87e85a9dcc7.png",
+    "static/media/weather.png": "/weather-watch/static/media/weather.265a8f49c63b2577ba4d.png",
+    "static/media/revicons.eot": "/weather-watch/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/weather-watch/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/weather-watch/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/weather-watch/index.html",
-    "main.48f161de.css.map": "/weather-watch/static/css/main.48f161de.css.map",
-    "main.63fb9193.js.map": "/weather-watch/static/js/main.63fb9193.js.map"
+    "main.5911a8ae.css.map": "/weather-watch/static/css/main.5911a8ae.css.map",
+    "main.17c6138b.js.map": "/weather-watch/static/js/main.17c6138b.js.map"
   },
   "entrypoints": [
-    "static/css/main.48f161de.css",
-    "static/js/main.63fb9193.js"
+    "static/css/main.5911a8ae.css",
+    "static/js/main.17c6138b.js"
   ]
 }
