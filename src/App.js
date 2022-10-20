@@ -125,7 +125,7 @@ function App() {
               <img className={weatherType()}></img>
             </div>
 
-            <div className={`second-bx ${animation}`}>
+            <div className={`second-bx ${detailsanime}`}>
               <div className="details-bx">
                 <img
                   className="wind-img"
