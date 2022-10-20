@@ -122,7 +122,7 @@ function App() {
                   {Math.round(weather.main.temp)}°
                 </div>
               </div>
-              <img className={weatherType()}></img>
+              <img alt="weather-img" className={weatherType()}></img>
             </div>
 
             <div className={`second-bx ${detailsanime}`}>
