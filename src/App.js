@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import pinkclouds from "./assets/pinkclouds.svg";
 const apiW = {
